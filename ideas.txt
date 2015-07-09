@@ -1,0 +1,34 @@
+Quadrants - divide each sector into 4 quadrants, check which quadrant rocket is in, 
+draw asteroid indicators for sectors adjacent to that quadrant
+
+mod stars with screen size for repeated starfield
+
+game menu/display controls with confirmation screen
+
+aliens/asteroids
+
+rockets?  use loc. indicator to lock on -- possible upgrade opportunity
+
+fuel limit/collection  -- possible upgrade opportunity
+
+webkit?  fix compatibility with firefox
+
+don't have to reload to restart (requires restructuring???) or a dispose() method that deletes all the stuff I created
+
+infinite world?  speculative
+
+Stick with black and green color palette, color sparingly
+
+RPG elements?  Upgrade ship, get different ships.  
+shops on planets, pirates.
+Destroy asteroids to get points/minerals for shop trade?
+
+Giant ships
+
+Combat with giant ships?
+
+
+
+Asteroid Generation:
+set of points in roughly a circle.  Randomly vary their position within non-intersecting circles.
+How to check collisions though...

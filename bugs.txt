@@ -1,0 +1,16 @@
+Rocket exhaust is drawn over compass
+
+Can still fire laser in GAME_OVER state
+
+music restarts on restart
+
+lasers are drawn over compass
+
+MAJOR: Collision detection is wrong in Chrome
+rocket enters planet before colliding
+
+FIX: This is due to chrome not drawing large arcs properly.
+Fixed by using a custom circle drawing function, kind of
+This fix doesn't work.  
+
+debug: show sector boundaries = '

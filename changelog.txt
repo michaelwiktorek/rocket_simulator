@@ -1,0 +1,88 @@
+12/28/2013
+Added laser collision with the rocket
+
+12/16/2013
+Added basic lock-on functionality
+
+12/15/2013
+Added alien saucer enemies
+Tweaked location indicators
+Added simple combat: lasers destroy alien saucers
+Note: game is experiencing some jumpiness.  Optimizations?
+Added points-to-win counter
+Added point display when killing an alien saucer
+Time acceleration jumps in steps of 5 if over 5
+Removed ability to shoot over time accel factor 1
+
+12/14/2013
+Made rocket position indicator blue
+Added asteroid position indicators
+
+12/12/2013
+Added sector-based asteroid generation
+Discovered (possibly) intractable planet drawing bug
+
+12/10/2013
+Added infinite sector generation
+Added camera-position-based sector drawing
+Added rocket-position-based physics simulation
+Modified collision, gravitation, trajectory plotting code for sectors
+Added infinite starfield drawing
+
+12/08/2013
+Added simple asteroid generation
+Started work on a sector system for infinite world generation
+
+12/07/2013
+Added up to 30x time acceleration (with control up to 5x)
+
+12/06/2013
+Added trajectory plotter
+Changed planet size/number/distribution
+Changed star parallax settings
+Changed max zoom level
+
+12/04/2013
+Added basic shield graphic (temporary)
+
+12/03/2013
+Rearranged menu
+Added edge flash when (de)activating edge-teleport
+
+12/02/2013
+Added edge-teleport for lasers, with increased efficiency
+Added lifetime for lasers
+Added laser sounds
+Added multiple game states
+Added placeholder menu
+Added moving starfield to menu
+
+12/01/2013
+Added back edge-teleport, which now turns off planet collisions and gravity
+Added simple lasers
+
+11/30/2013
+Added restart functionality
+Started changelog: Previous entries are based on memory
+
+11/29/2013
+Made compass a circle
+Added velocity direction indicator to compass
+Added engine type indicator to compass
+Added position tracker when zoomed out
+Updated win/loss screens
+Added mouse-targeted zoom
+
+11/28/2013
+Added game logic
+Added parallax stars/star generation
+Added mousewheel zoom
+Added compass to show rocket direction when zoomed out
+Added sound/music
+
+11/27/2013
+Added planet generation
+Added engine coloration
+
+11/26/2013
+Started
